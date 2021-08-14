@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "☠️Smøker-Bøt☠️",
+  "description": "Smøker-Bøt is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/d6f210ec905d3eb385410.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/smokerboy09/InVade/edit/master/README.md",
+  "website": "https://github.com/smokerboy09",
+  "success_url": "https://t.me/SMOKER_UB",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "value": "『SMØKÈR』",
       "required": false
     },
     "ALIVE_MSG": {
