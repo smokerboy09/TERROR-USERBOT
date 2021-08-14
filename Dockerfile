@@ -1,7 +1,7 @@
-FROM teamvaders/hellbot:latest
+FROM smokerboy09/SmokerBot:latest
 
 #clonning repo 
-RUN git clone https://github.com/TheVaders/InVade.git /root/hellbot
+RUN git clone https://github.com/somkerboy09/InVade.git /root/hellbot
 
 #working directory 
 WORKDIR /root/hellbot
