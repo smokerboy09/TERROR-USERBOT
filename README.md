@@ -58,6 +58,6 @@
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - Forking Repo is fine. But if you edit something we will not provide any help.
-- In short, Fork At Your Own Risk.
+- Fork At Your Own Risk.
 
 ------
